@@ -12,7 +12,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Experienced Software Designer with a demonstrated history of working in the banking industry. Skilled in AWS , Azure cloud solutions,designing data pipeline solutions, Dimensional Modeling, PL/SQL, Big Data technologies like
+Hive, Hadoop, and Informatica. Strong engineering professional with a Bachelor's degree focused in Electrical, Electronics and Communications Engineering from Rajiv Gandhi Prodyogiki Vishwavidyalaya.
 
 ## Header 2
 
